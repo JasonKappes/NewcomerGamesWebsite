@@ -1,5 +1,5 @@
 #page title
-page_title                                : Kingdom Cards                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Newcomer Games                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 appstore_link                             : http://www.newcomer-tech.com/                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 presskit_download_link                    : http://www.newcomer-tech.com/                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
@@ -25,7 +25,7 @@ features                                  :
     description                           : Game-based learning increases learning engagement, motivation, and self-efficacy.
     fontawesome_icon_name                 : info-circle
     
-  - title                                 : Magical and Dynamic Learning
+  - title                                 : Dynamic Play
     description                           : Quests dynamically populated from study sets making it easy to study all the time. 
     fontawesome_icon_name                 : star
     
