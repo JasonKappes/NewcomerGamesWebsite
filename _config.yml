@@ -1,35 +1,19 @@
 #page title
 page_title                                : Kingdom Cards                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
-# App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           :                                         # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-
 appstore_link                             : http://www.newcomer-tech.com/                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : http://www.newcomer-tech.com/                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
-
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Defend your kingdom through effortless study. Free and playable on the web.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
-
 # Information About Yourself
 your_name                                 : Jason Kappes                                
-your_link                                 :                     
 your_city                                 : United States                                
 email_address                             : newcomer.education.games@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
-github_username                           : 
-youtube_username                          :
-
+twitter_username                          : https://twitter.com/NewcomerGames
 
 
 # Feature List                            Edit, add or remove features to be presented.
