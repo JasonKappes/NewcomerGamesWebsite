@@ -8,12 +8,6 @@
 					</clipPath>
 				</defs>
 			</svg>
-			{% if page.url != '/' %}
-				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
-			{% else %}
-				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
-			{% endif %}
-			<div class="divider"></div>
 		</div>
 		<p class="headerName">{{ site.app_name }}</p>
 	</div>
@@ -25,7 +19,7 @@
 				{% endif %}
 			{% endfor %}
 			{% if site.presskit_download_link %}
-				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
+				<li><a href="{{ site.presskit_download_link }}">Click to Play</a></li>
 			{% endif %}
 		</ul>
 	</nav>
