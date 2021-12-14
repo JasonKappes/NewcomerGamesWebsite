@@ -4,7 +4,7 @@ page_title                                : Kingdom Cards                       
 appstore_link                             : http://www.newcomer-tech.com/                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 presskit_download_link                    : http://www.newcomer-tech.com/                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : # assets/N.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 
 app_description                           : Defend your kingdom through effortless study. Free and playable on the web.
 
@@ -13,7 +13,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Newcomer Games                               
-your_city                                 : United States                                
+your_city                                 : the United States                                
 email_address                             : newcomer.education.games@gmail.com
 twitter_username                          : https://twitter.com/NewcomerGames
 
